@@ -18,11 +18,9 @@
 使用示例(终端管理员启动)：
     Python voice_restorer.py
 
-作者：机械2507张溪麟
-学号：2500473
 联系方式：
     - 邮箱：zhangxilin@mails.neu.edu.cn
-    - GitHub：https://github.com/yourusername
+    - GitHub：https://github.com/hpp12320
 
 创建时间：2025-11-03
 最后修改时间：2025-11-06
@@ -304,4 +302,5 @@ if __name__ == "__main__":
             print(f" {input_file} 音频修复完成")
         else:
             print(f" {input_file} 音频修复失败")
+
     trim_audio("./htdemucs/output_temp.wav", "output.wav", duration=2)
