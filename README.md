@@ -1,4 +1,4 @@
-# Denoise Final - 音频降噪与语音修复工具
+# Denoise Final
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
